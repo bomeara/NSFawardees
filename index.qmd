@@ -1,0 +1,9 @@
+---
+title: "Handling of NSF Awardees"
+---
+
+In the spirit of <https://www.phdstipends.com> and <https://www.ecoevojobs.net>, we are trying to crowd source information on how institutions handle people who are funded via NSF awards. Do they get healthcare through their institution on their own? Are they considered employees of the institution? Does tuition come from a grant or does the institution subsidize it? This is to help provide examples and norms for institutions to use in crafting their own policies. To do this, we have a form below and aggregate responses [here](https://docs.google.com/spreadsheets/d/1IKbg6WxA_bVKnY1JMbB0UudrP1-RT5CVWqIOGKscrj8/edit?usp=sharing) -- please feel free to use this for your own purposes. We will try to delete any problematic entries, but as with all places in the internet where strangers may post, be cautious. 
+
+```{=html}
+<iframe width="780" height="1800" src="https://forms.gle/WoPkN16374NGeu2b9" title="NSF Awardee Handling"></iframe>
+```
